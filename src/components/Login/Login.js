@@ -8,7 +8,7 @@ const Login = () => {
       <div className="form-container">
         <h2 className="form-title">Login</h2>
 
-        <form action="">
+        <form>
           <div className="input-group">
             <label htmlFor="email">Email</label>
             <input type="email" name="email" id="email" />
